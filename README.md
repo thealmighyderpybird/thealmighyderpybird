@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @ajcoolcat
-- 🔮 I’m planning to upload a little project called PY-DOS 
-- 📨 You can reach me at ajcoolcattest@gmail.com.
+- 👋 Hi, I’m a person.
+- 🔮 I’m planning to upload a little project called PY-DOS
